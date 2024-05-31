@@ -1,0 +1,15 @@
+{
+	"headers":{
+		"login":{
+			"header1":"Content-Type",
+			"value1":"application/json",
+			"header2":"token"	
+			}
+			
+		},	
+		"endpoint":{
+			"getdata": "getdata"	
+		}
+		 
+
+}

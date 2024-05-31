@@ -1,0 +1,22 @@
+{
+	"headers":{
+		"login":{
+			"header1":"Content-Type",
+			"value1":"application/json"
+			}
+			
+		},	
+		"body":{
+			"login":{
+			"username": "stella@tekarch.com",
+			"password": "Admin123"
+			}
+		},
+		"endpoint":{
+			"login": "login"	
+		},
+		  "uri":{
+		      "login":"https://us-central1-qa01-tekarch-accmanager.cloudfunctions.net/"
+		      }
+
+}
